@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 06/07/23 12:11:24
+=======
+﻿Log file open, 06/06/23 13:54:00
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 06/06/23 13:54:00
 >>>>>>> Stashed changes
@@ -15,7 +19,11 @@ LogInit: Display: Running engine for game: SummerGJ2023
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.708499
+=======
+LogStats: Stats thread started at 0.225304
+>>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.225304
 >>>>>>> Stashed changes
@@ -24,6 +32,7 @@ LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin CameraShakePreviewer
@@ -150,6 +159,8 @@ LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LiveLink
@@ -274,6 +285,9 @@ LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
@@ -365,6 +379,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2023.06.07-03.11.25:359][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2023.06.07-03.11.25:359][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -2099,6 +2114,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.07-03.26.25:367][326]LogExit: Exiting.
 [2023.06.07-03.26.25:374][326]Log file closed, 06/07/23 12:26:25
 =======
+=======
+>>>>>>> Stashed changes
 [2023.06.06-04.54.01:248][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2023.06.06-04.54.01:248][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2023.06.06-04.54.01:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Config/Windows/Engine.ini]
@@ -3245,4 +3262,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.06-05.55.53:737][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.06.06-05.55.53:744][140]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
 [2023.06.06-05.55.53:744][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
