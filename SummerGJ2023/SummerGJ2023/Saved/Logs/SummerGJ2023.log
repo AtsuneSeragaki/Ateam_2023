@@ -803,3 +803,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.08-02.23.09:547][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/rin/UI/UMG_Result]
 [2023.06.08-02.23.09:560][854]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/UMG_Result_Auto3B0E81D894A0ADFAA321C5E9643F3FC45.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Autosaves/Game/rin/UI/UMG_Result_Auto3.uasset'
 [2023.06.08-02.23.09:561][854]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.06.08-02.24.02:016][819]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/rin/UI/UMG_Result.UMG_Result
