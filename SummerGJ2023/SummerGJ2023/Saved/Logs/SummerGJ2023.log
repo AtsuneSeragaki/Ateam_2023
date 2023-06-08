@@ -50754,3 +50754,495 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.08-07.40.06:373][663]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
 [2023.06.08-07.40.06:373][663]LogStaticMesh: スタティックメッシュ SM_DoorExit をビルド中...
 [2023.06.08-07.40.06:387][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_DoorExit.SM_DoorExit
+[2023.06.08-07.40.08:365][663]LogTexture: Display: テクスチャをビルドしています:T_CurtainSingleClose_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.08:365][663]LogTexture: Display: テクスチャをビルドしています:T_CurtainSingle_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.08:365][663]LogTexture: Display: テクスチャをビルドしています:T_CurtainSingleClose_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.08:365][663]LogTexture: Display: テクスチャをビルドしています:T_CurtainSingle_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.08:365][663]LogTexture: Display: テクスチャをビルドしています:T_CurtainSingleClose_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.08:365][663]LogTexture: Display: テクスチャをビルドしています:T_CurtainLarge_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.08:365][663]LogTexture: Display: テクスチャをビルドしています:T_CurtainSingle_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.08:365][663]LogTexture: Display: テクスチャをビルドしています:T_DeskL_Normal (OODLE_BC5、4096X4096)
+[2023.06.08-07.40.08:365][663]LogTexture: Display: テクスチャをビルドしています:T_DeskL_BaseColor (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.08:365][663]LogTexture: Display: テクスチャをビルドしています:T_CurtainLarge_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.08:365][663]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2023.06.08-07.40.08:365][663]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.08:365][663]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2023.06.08-07.40.08:365][663]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.08:365][663]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2023.06.08-07.40.08:365][663]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.08:365][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:365][663]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.06.08-07.40.08:365][663]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.08:365][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:365][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:365][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.08:365][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:365][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.08:365][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.08:365][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.08:365][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:365][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:366][663]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2023.06.08-07.40.08:366][663]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.08:366][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:366][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.08:366][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.08:366][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:366][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:366][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.08:366][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:366][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:366][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.08:366][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:366][663]LogTexture: Display: テクスチャをビルドしています:T_CurtainLarge_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.08:366][663]LogStaticMesh: スタティックメッシュ SM_Deskthreeway をビルド中...
+[2023.06.08-07.40.08:580][663]LogTexture: Display: テクスチャをビルドしています:T_CornerDecor_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.08:589][663]LogStaticMesh: Built static mesh [0.22s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_Deskthreeway.SM_Deskthreeway
+[2023.06.08-07.40.08:625][663]LogStaticMesh: スタティックメッシュ SM_DeskManagerB をビルド中...
+[2023.06.08-07.40.08:640][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_DeskManagerB.SM_DeskManagerB
+[2023.06.08-07.40.08:872][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.08:872][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:872][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:872][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:872][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.08:872][663]LogStaticMesh: スタティックメッシュ SM_DeskLib をビルド中...
+[2023.06.08-07.40.08:885][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_DeskLib.SM_DeskLib
+[2023.06.08-07.40.08:911][663]LogStaticMesh: スタティックメッシュ SM_DeskLDrawer をビルド中...
+[2023.06.08-07.40.08:951][663]LogStaticMesh: Built static mesh [0.04s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_DeskLDrawer.SM_DeskLDrawer
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_CornerDecor_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_CornerDecor_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_BricksPaintedGray_Rough (OODLE_AutoDXT、1024X1024)
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_Stripes_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_BricksPaintedGray_BaseColor (OODLE_AutoDXT、1024X1024)
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_BricksPaintedGray_Normal (OODLE_BC5、1024X1024)
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_Stripes_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_GrayFloor_Roughness (OODLE_AutoDXT、1024X1024)
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_GrayFloor_Normal (OODLE_BC5、1024X1024)
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_CopyMachine_RAM (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_GrayFloor_BaseColor (OODLE_AutoDXT、1024X1024)
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_CopyMachine_BaseColor (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.10:121][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.10:121][663]LogTexture: Display: テクスチャをビルドしています:T_CopyMachine_Normal (OODLE_BC5、4096X4096)
+[2023.06.08-07.40.10:121][663]LogStaticMesh: スタティックメッシュ SM_DeskL をビルド中...
+[2023.06.08-07.40.10:145][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_DeskL.SM_DeskL
+[2023.06.08-07.40.10:172][663]LogTexture: Display: テクスチャをビルドしています:T_Column_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.10:172][663]LogTexture: Display: テクスチャをビルドしています:T_Column_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.10:172][663]LogStaticMesh: スタティックメッシュ SM_Desk をビルド中...
+[2023.06.08-07.40.10:216][663]LogStaticMesh: Built static mesh [0.04s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_Desk.SM_Desk
+[2023.06.08-07.40.10:232][663]LogStaticMesh: スタティックメッシュ SM_CurtainSingleClose をビルド中...
+[2023.06.08-07.40.10:264][663]LogStaticMesh: Built static mesh [0.03s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CurtainSingleClose.SM_CurtainSingleClose
+[2023.06.08-07.40.10:283][663]LogStaticMesh: スタティックメッシュ SM_CurtainSingle をビルド中...
+[2023.06.08-07.40.10:299][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.10:299][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CurtainSingle.SM_CurtainSingle
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTexture: Display: テクスチャをビルドしています:T_CoffeeMaker_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTexture: Display: テクスチャをビルドしています:T_Column_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTexture: Display: テクスチャをビルドしています:T_CoffeeMaker_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTexture: Display: テクスチャをビルドしています:T_CoffeeMaker_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTexture: Display: テクスチャをビルドしています:T_ClothOpenBlue_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.11:814][663]LogTexture: Display: テクスチャをビルドしています:T_ClothOpenBlue_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.11:814][663]LogTexture: Display: テクスチャをビルドしています:T_ClothOpenBlue_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:814][663]LogMaterial: Display: Missing cached shadermap for M_CurtainCafee in PCD3D_SM5, Default, SM5 (DDC key hash: 72912F75496B9C23E529013DD1E847CE13358A9F), compiling. 
+[2023.06.08-07.40.11:974][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.11:974][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.11:974][663]LogShaderCompilers: Display: Submitted 76 shader compile jobs with 'Low' priority
+[2023.06.08-07.40.11:995][663]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 76
+[2023.06.08-07.40.11:995][663]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 69
+[2023.06.08-07.40.11:995][663]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 62
+[2023.06.08-07.40.11:995][663]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 55
+[2023.06.08-07.40.11:995][663]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 48
+[2023.06.08-07.40.11:995][663]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 41
+[2023.06.08-07.40.11:995][663]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 34
+[2023.06.08-07.40.11:995][663]LogShaderCompilers: Display: Started 49 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.11:995][663]LogStaticMesh: スタティックメッシュ SM_CurtainLarge をビルド中...
+[2023.06.08-07.40.12:028][663]LogStaticMesh: Built static mesh [0.03s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CurtainLarge.SM_CurtainLarge
+[2023.06.08-07.40.12:087][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.12:088][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.12:088][663]LogStaticMesh: スタティックメッシュ SM_Cupboard をビルド中...
+[2023.06.08-07.40.12:181][663]LogTexture: Display: テクスチャをビルドしています:T_ClothHangedBrown_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.12:181][663]LogTexture: Display: テクスチャをビルドしています:T_ClothHangedBrown_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.12:181][663]LogStaticMesh: Built static mesh [0.09s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_Cupboard.SM_Cupboard
+[2023.06.08-07.40.12:198][663]LogStaticMesh: スタティックメッシュ SM_CornerDecor をビルド中...
+[2023.06.08-07.40.12:212][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CornerDecor.SM_CornerDecor
+[2023.06.08-07.40.13:497][663]LogTexture: Display: テクスチャをビルドしています:T_ClothHangedBrown_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.13:497][663]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 27
+[2023.06.08-07.40.13:497][663]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.13:497][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.13:497][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.13:497][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.13:497][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.13:497][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.13:497][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.13:497][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.13:498][663]LogTexture: Display: テクスチャをビルドしています:T_SM_ClosetMetal_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.13:498][663]LogTexture: Display: テクスチャをビルドしています:T_SM_ClosetMetal_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.13:498][663]LogTexture: Display: テクスチャをビルドしています:T_ClosetShortandStuff_RAM (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.13:498][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.13:498][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.13:498][663]LogTexture: Display: テクスチャをビルドしています:T_ClosetShortandStuff_BaseColor (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.13:498][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.13:498][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.13:498][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.13:498][663]LogStaticMesh: スタティックメッシュ SM_CopyMachine をビルド中...
+[2023.06.08-07.40.13:554][663]LogStaticMesh: Built static mesh [0.06s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CopyMachine.SM_CopyMachine
+[2023.06.08-07.40.13:569][663]LogStaticMesh: スタティックメッシュ SM_ConfranceTableLong をビルド中...
+[2023.06.08-07.40.13:581][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ConfranceTableLong.SM_ConfranceTableLong
+[2023.06.08-07.40.13:609][663]LogTexture: Display: テクスチャをビルドしています:T_ClosetMetal_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.13:609][663]LogStaticMesh: スタティックメッシュ SM_ConferenceSecretaryRoom をビルド中...
+[2023.06.08-07.40.13:684][663]LogTexture: Display: テクスチャをビルドしています:T_ClosetManager_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.13:684][663]LogTexture: Display: テクスチャをビルドしています:T_ClosetShortandStuff_Normal (OODLE_BC5、4096X4096)
+[2023.06.08-07.40.13:684][663]LogStaticMesh: Built static mesh [0.08s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ConferenceSecretaryRoom.SM_ConferenceSecretaryRoom
+[2023.06.08-07.40.13:729][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.13:729][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.13:729][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.13:729][663]LogStaticMesh: スタティックメッシュ SM_Column をビルド中...
+[2023.06.08-07.40.13:743][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_Column.SM_Column
+[2023.06.08-07.40.13:760][663]LogStaticMesh: スタティックメッシュ SM_CoffeeMaker をビルド中...
+[2023.06.08-07.40.13:791][663]LogTexture: Display: テクスチャをビルドしています:T_ClosetManager_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.13:791][663]LogStaticMesh: Built static mesh [0.03s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CoffeeMaker.SM_CoffeeMaker
+[2023.06.08-07.40.13:814][663]LogStaticMesh: スタティックメッシュ SM_ClothScarf をビルド中...
+[2023.06.08-07.40.13:851][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.13:852][663]LogStaticMesh: Built static mesh [0.04s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClothScarf.SM_ClothScarf
+[2023.06.08-07.40.13:872][663]LogTexture: Display: テクスチャをビルドしています:T_ClosetManager_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.13:872][663]LogStaticMesh: スタティックメッシュ SM_ClothHanger をビルド中...
+[2023.06.08-07.40.13:898][663]LogStaticMesh: Built static mesh [0.03s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClothHanger.SM_ClothHanger
+[2023.06.08-07.40.14:026][663]LogTexture: Display: テクスチャをビルドしています:T_ChillerEngine_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.14:026][663]LogStaticMesh: スタティックメッシュ SM_ClothHangedOpen をビルド中...
+[2023.06.08-07.40.14:187][663]LogTexture: Display: テクスチャをビルドしています:T_ChillerEngine_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.14:188][663]LogStaticMesh: Built static mesh [0.16s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClothHangedOpen.SM_ClothHangedOpen
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 24
+[2023.06.08-07.40.16:506][663]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTexture: Display: テクスチャをビルドしています:T_CCTVA_Emissive (OODLE_AutoDXT、1024X1024)
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTexture: Display: テクスチャをビルドしています:T_CCTVA_RAM (OODLE_AutoDXT、1024X1024)
+[2023.06.08-07.40.16:506][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:506][663]LogTexture: Display: テクスチャをビルドしています:T_CCTVA_BaseColor (OODLE_AutoDXT、1024X1024)
+[2023.06.08-07.40.16:506][663]LogTexture: Display: テクスチャをビルドしています:T_ChairFixed_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.16:506][663]LogTexture: Display: テクスチャをビルドしています:T_CCTVA_Normal (OODLE_BC5、1024X1024)
+[2023.06.08-07.40.16:506][663]LogTexture: Display: テクスチャをビルドしています:T_ChillerEngine_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.16:506][663]LogStaticMesh: スタティックメッシュ SM_ClothHanged をビルド中...
+[2023.06.08-07.40.16:618][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.16:618][663]LogTexture: Display: テクスチャをビルドしています:T_ChairFixed_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.16:618][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:618][663]LogStaticMesh: Built static mesh [0.11s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClothHanged.SM_ClothHanged
+[2023.06.08-07.40.16:642][663]LogTexture: Display: テクスチャをビルドしています:T_ChairFixed_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.16:642][663]LogStaticMesh: スタティックメッシュ SM_ClosetShortandStuffShelf をビルド中...
+[2023.06.08-07.40.16:671][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:671][663]LogStaticMesh: Built static mesh [0.03s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClosetShortandStuffShelf.SM_ClosetShortandStuffShelf
+[2023.06.08-07.40.16:675][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:675][663]LogStaticMesh: スタティックメッシュ SM_ClosetShortandStuffPot をビルド中...
+[2023.06.08-07.40.16:683][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClosetShortandStuffPot.SM_ClosetShortandStuffPot
+[2023.06.08-07.40.16:688][663]LogStaticMesh: スタティックメッシュ SM_ClosetShortandStuffPicFrame をビルド中...
+[2023.06.08-07.40.16:699][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClosetShortandStuffPicFrame.SM_ClosetShortandStuffPicFrame
+[2023.06.08-07.40.16:701][663]LogStaticMesh: スタティックメッシュ SM_ClosetShortandStuffPic をビルド中...
+[2023.06.08-07.40.16:704][663]LogStaticMesh: Built static mesh [0.00s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClosetShortandStuffPic.SM_ClosetShortandStuffPic
+[2023.06.08-07.40.16:720][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.16:720][663]LogStaticMesh: スタティックメッシュ SM_ClosetShortandStuffCandleB をビルド中...
+[2023.06.08-07.40.16:749][663]LogTexture: Display: テクスチャをビルドしています:T_CCTVB_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.16:750][663]LogStaticMesh: Built static mesh [0.03s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClosetShortandStuffCandleB.SM_ClosetShortandStuffCandleB
+[2023.06.08-07.40.16:768][663]LogStaticMesh: スタティックメッシュ SM_ClosetShortandStuffCandleA をビルド中...
+[2023.06.08-07.40.16:789][663]LogTexture: Display: テクスチャをビルドしています:T_CCTVB_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.16:790][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClosetShortandStuffCandleA.SM_ClosetShortandStuffCandleA
+[2023.06.08-07.40.18:091][663]LogTexture: Display: テクスチャをビルドしています:T_CCTVB_ARM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.18:091][663]LogTexture: Display: テクスチャをビルドしています:T_ChairStool_RAM (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTexture: Display: テクスチャをビルドしています:T_ChairStool_Normal (OODLE_BC5、4096X4096)
+[2023.06.08-07.40.18:091][663]LogTexture: Display: テクスチャをビルドしています:T_ChairStool_BaseColor (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.18:091][663]LogStaticMesh: スタティックメッシュ SM_ClosetShortand をビルド中...
+[2023.06.08-07.40.18:133][663]LogTexture: Display: テクスチャをビルドしています:T_CaseUnitB_RAM (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.18:133][663]LogStaticMesh: Built static mesh [0.04s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClosetShortand.SM_ClosetShortand
+[2023.06.08-07.40.18:149][663]LogTexture: Display: テクスチャをビルドしています:T_CaseUnitGrayA_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.18:149][663]LogStaticMesh: スタティックメッシュ SM_ClosetShort をビルド中...
+[2023.06.08-07.40.18:166][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClosetShort.SM_ClosetShort
+[2023.06.08-07.40.18:171][663]LogStaticMesh: スタティックメッシュ SM_ClosetMetal をビルド中...
+[2023.06.08-07.40.18:176][663]LogStaticMesh: Built static mesh [0.00s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClosetMetal.SM_ClosetMetal
+[2023.06.08-07.40.18:186][663]LogStaticMesh: スタティックメッシュ SM_ClosetManager をビルド中...
+[2023.06.08-07.40.18:207][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClosetManager.SM_ClosetManager
+[2023.06.08-07.40.18:217][663]LogStaticMesh: スタティックメッシュ SM_ClockHandShort をビルド中...
+[2023.06.08-07.40.18:228][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClockHandShort.SM_ClockHandShort
+[2023.06.08-07.40.18:235][663]LogStaticMesh: スタティックメッシュ SM_ClockHandLong をビルド中...
+[2023.06.08-07.40.18:248][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClockHandLong.SM_ClockHandLong
+[2023.06.08-07.40.18:261][663]LogStaticMesh: スタティックメッシュ SM_ClockBase をビルド中...
+[2023.06.08-07.40.18:285][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ClockBase.SM_ClockBase
+[2023.06.08-07.40.18:296][663]LogStaticMesh: スタティックメッシュ SM_CircleLight をビルド中...
+[2023.06.08-07.40.18:321][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CircleLight.SM_CircleLight
+[2023.06.08-07.40.19:629][663]LogTexture: Display: テクスチャをビルドしています:T_CaseUnitB_BaseColor (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.19:629][663]LogTexture: Display: テクスチャをビルドしています:T_CaseUnitB_Normal (OODLE_BC5、4096X4096)
+[2023.06.08-07.40.19:629][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.19:629][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.19:629][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.19:629][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.19:629][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.19:629][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.19:629][663]LogTexture: Display: テクスチャをビルドしています:T_CaseUnitGrayA_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.19:629][663]LogStaticMesh: スタティックメッシュ SM_ChillerEngine をビルド中...
+[2023.06.08-07.40.19:741][663]LogTexture: Display: テクスチャをビルドしています:T_Cardboard_RAM (OODLE_AutoDXT、1024X1024)
+[2023.06.08-07.40.19:741][663]LogStaticMesh: Built static mesh [0.11s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ChillerEngine.SM_ChillerEngine
+[2023.06.08-07.40.19:767][663]LogTexture: Display: テクスチャをビルドしています:T_CaseUnitGrayA_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.19:767][663]LogStaticMesh: スタティックメッシュ SM_Chassis をビルド中...
+[2023.06.08-07.40.19:787][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_Chassis.SM_Chassis
+[2023.06.08-07.40.22:235][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.22:235][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:235][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.22:235][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:235][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:235][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:235][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_Cardboard_BaseColor (OODLE_AutoDXT、1024X1024)
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_Cardboard_Normal (OODLE_BC5、1024X1024)
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_Stationery_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_Stationery_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_Stationery_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_CafeeTableSeat_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_CafeeTableSeat_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_CafeeTableSeat_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_seamlessWood (BGRA8、850X850)
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_Brifcase_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_CafeeTableStuff_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_Brifcase_BaeColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_Brifcase_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_WCPackA_RAM (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_WCPackA_BaseColor (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTexture: Display: テクスチャをビルドしています:T_WCPackA_Normal (OODLE_BC5、4096X4096)
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:236][663]LogStaticMesh: スタティックメッシュ SM_ChairStool をビルド中...
+[2023.06.08-07.40.22:278][663]LogStaticMesh: Built static mesh [0.04s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ChairStool.SM_ChairStool
+[2023.06.08-07.40.22:340][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.22:340][663]LogTexture: Display: テクスチャをビルドしています:T_CafeeTableStuff_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.22:340][663]LogStaticMesh: スタティックメッシュ SM_ChairFixed をビルド中...
+[2023.06.08-07.40.22:414][663]LogTexture: Display: テクスチャをビルドしています:T_CafeeTableStuff_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.22:414][663]LogStaticMesh: Built static mesh [0.07s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_ChairFixed.SM_ChairFixed
+[2023.06.08-07.40.22:443][663]LogStaticMesh: スタティックメッシュ SM_CCTV_CAM をビルド中...
+[2023.06.08-07.40.22:470][663]LogStaticMesh: Built static mesh [0.03s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CCTV_CAM.SM_CCTV_CAM
+[2023.06.08-07.40.22:499][663]LogStaticMesh: スタティックメッシュ SM_CCTV_Base をビルド中...
+[2023.06.08-07.40.22:541][663]LogStaticMesh: Built static mesh [0.04s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CCTV_Base.SM_CCTV_Base
+[2023.06.08-07.40.22:559][663]LogStaticMesh: スタティックメッシュ SM_CCTV_B をビルド中...
+[2023.06.08-07.40.22:581][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CCTV_B.SM_CCTV_B
+[2023.06.08-07.40.22:586][663]LogStaticMesh: スタティックメッシュ SM_CaseUnitB をビルド中...
+[2023.06.08-07.40.22:591][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CaseUnitB.SM_CaseUnitB
+[2023.06.08-07.40.22:595][663]LogStaticMesh: スタティックメッシュ SM_CaseUnitA をビルド中...
+[2023.06.08-07.40.22:599][663]LogStaticMesh: Built static mesh [0.00s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CaseUnitA.SM_CaseUnitA
+[2023.06.08-07.40.22:603][663]LogStaticMesh: スタティックメッシュ SM_CardboardOpen をビルド中...
+[2023.06.08-07.40.22:611][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CardboardOpen.SM_CardboardOpen
+[2023.06.08-07.40.22:614][663]LogStaticMesh: スタティックメッシュ SM_CardboardClose をビルド中...
+[2023.06.08-07.40.22:619][663]LogStaticMesh: Built static mesh [0.00s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CardboardClose.SM_CardboardClose
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTexture: Display: テクスチャをビルドしています:T_BooksA_BaseColor (OODLE_AutoDXT、4096X4096)
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTexture: Display: テクスチャをビルドしています:T_PicFrameA_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.24:156][663]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2023.06.08-07.40.24:156][663]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.24:156][663]LogTexture: Display: テクスチャをビルドしています:T_SM_BiometricTime_RAM (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.24:156][663]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2023.06.08-07.40.24:156][663]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2023.06.08-07.40.24:156][663]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:156][663]LogStaticMesh: スタティックメッシュ SM_CalendarDesk をビルド中...
+[2023.06.08-07.40.24:169][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CalendarDesk.SM_CalendarDesk
+[2023.06.08-07.40.24:182][663]LogStaticMesh: スタティックメッシュ SM_CafeeSeat をビルド中...
+[2023.06.08-07.40.24:204][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CafeeSeat.SM_CafeeSeat
+[2023.06.08-07.40.24:215][663]LogStaticMesh: スタティックメッシュ SM_Bucket をビルド中...
+[2023.06.08-07.40.24:232][663]LogTexture: Display: テクスチャをビルドしています:T_WaterBottleBig_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.24:232][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_Bucket.SM_Bucket
+[2023.06.08-07.40.24:521][663]LogTexture: Display: テクスチャをビルドしています:T_SM_BiometricTime_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.24:521][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:521][663]LogTexture: Display: テクスチャをビルドしています:T_SM_BiometricTime_Normal (OODLE_BC5、2048X2048)
+[2023.06.08-07.40.24:521][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:521][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:521][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:521][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.24:521][663]LogStaticMesh: スタティックメッシュ SM_CafeeTable をビルド中...
+[2023.06.08-07.40.24:535][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_CafeeTable.SM_CafeeTable
+[2023.06.08-07.40.24:770][663]LogTexture: Display: テクスチャをビルドしています:T_FruitBowl_BaseColor (OODLE_AutoDXT、2048X2048)
+[2023.06.08-07.40.24:770][663]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 15
+[2023.06.08-07.40.24:770][663]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.24:770][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:770][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:770][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.06.08-07.40.24:770][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:770][663]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:770][663]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.06.08-07.40.24:770][663]LogStaticMesh: スタティックメッシュ SM_Broom をビルド中...
+[2023.06.08-07.40.24:791][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_Broom.SM_Broom
+[2023.06.08-07.40.24:870][663]LogStaticMesh: スタティックメッシュ SM_Brifcase をビルド中...
+[2023.06.08-07.40.25:001][663]LogStaticMesh: Built static mesh [0.13s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_Brifcase.SM_Brifcase
+[2023.06.08-07.40.25:021][663]LogStaticMesh: スタティックメッシュ SM_BoxWideWorkstation をビルド中...
+[2023.06.08-07.40.25:047][663]LogStaticMesh: Built static mesh [0.02s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_BoxWideWorkstation.SM_BoxWideWorkstation
+[2023.06.08-07.40.25:054][663]LogStaticMesh: スタティックメッシュ SM_Bowl をビルド中...
+[2023.06.08-07.40.25:061][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_Bowl.SM_Bowl
+[2023.06.08-07.40.25:090][663]LogStaticMesh: スタティックメッシュ SM_BooksC をビルド中...
+[2023.06.08-07.40.25:139][663]LogStaticMesh: Built static mesh [0.05s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_BooksC.SM_BooksC
+[2023.06.08-07.40.25:221][663]LogStaticMesh: スタティックメッシュ SM_BooksB をビルド中...
+[2023.06.08-07.40.25:350][663]LogStaticMesh: Built static mesh [0.13s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_BooksB.SM_BooksB
+[2023.06.08-07.40.25:378][663]LogStaticMesh: スタティックメッシュ SM_BooksA をビルド中...
+[2023.06.08-07.40.25:423][663]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2023.06.08-07.40.25:423][663]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.25:425][663]LogStaticMesh: Built static mesh [0.05s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_BooksA.SM_BooksA
+[2023.06.08-07.40.25:474][663]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2023.06.08-07.40.25:474][663]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.25:474][663]LogStaticMesh: スタティックメッシュ SM_BiometricTime をビルド中...
+[2023.06.08-07.40.25:488][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_BiometricTime.SM_BiometricTime
+[2023.06.08-07.40.25:499][663]LogStaticMesh: スタティックメッシュ SM_Apple をビルド中...
+[2023.06.08-07.40.25:507][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_Apple.SM_Apple
+[2023.06.08-07.40.25:513][663]LogStaticMesh: スタティックメッシュ SM_AutoDoorLeft をビルド中...
+[2023.06.08-07.40.25:523][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_AutoDoorLeft.SM_AutoDoorLeft
+[2023.06.08-07.40.25:528][663]LogStaticMesh: スタティックメッシュ SM_AutoDoorRight をビルド中...
+[2023.06.08-07.40.25:539][663]LogStaticMesh: Built static mesh [0.01s] /Game/BigCompanyArchViz/StaticMesh/Probs/SM_AutoDoorRight.SM_AutoDoorRight
+[2023.06.08-07.40.25:545][663]LogMaterial: Display: Missing cached shadermap for M_GlassBlury in PCD3D_SM5, Default, SM5 (DDC key hash: E32700AAE943E87DF764079834AD12C2CB6CD436), compiling. 
+[2023.06.08-07.40.25:625][663]LogShaderCompilers: Display: Submitted 80 shader compile jobs with 'Low' priority
+[2023.06.08-07.40.25:689][663]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 90
+[2023.06.08-07.40.25:689][663]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.25:689][663]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 82
+[2023.06.08-07.40.25:689][663]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.06.08-07.40.25:702][663]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.08-07.40.25:703][663]LogShaderCompilers: Display: Total job queries 248, among them cache hits 0 (0.00%)
+[2023.06.08-07.40.25:703][663]LogShaderCompilers: Display: Tracking 105 distinct input hashes that result in 80 distinct outputs (76.19%)
+[2023.06.08-07.40.25:703][663]LogShaderCompilers: Display: RAM used: 0.44 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.06.08-07.40.25:703][663]LogShaderCompilers: Display: ================================================
+[2023.06.08-07.40.25:715][663]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BigCompanyArchViz/Maps/Maps_Assets.Maps_Assets
+[2023.06.08-07.40.25:716][663]Cmd: MAP LOAD FILE="../../../../../../Users/kbc12206150/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Content/BigCompanyArchViz/Maps/Maps_Assets.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.08-07.40.25:716][663]LightingResults: New page: ライティングのビルド
+[2023.06.08-07.40.25:716][663]LoadErrors: New page: マップをロード中: Maps_Assets.umap
+[2023.06.08-07.40.25:717][663]LogWorld: UWorld::CleanupWorld for YoutaLevel, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-07.40.25:717][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-07.40.25:717][663]MapCheck: New page: マップをチェック
+[2023.06.08-07.40.25:718][663]LightingResults: New page: <何も選択されていません>
+[2023.06.08-07.40.25:727][663]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-07.40.25:731][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.06.08-07.40.25:774][663]LogAudio: Display: Audio Device (ID: 1) registered with world 'Maps_Assets'.
+[2023.06.08-07.40.25:992][663]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 75
+[2023.06.08-07.40.25:992][663]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.06.08-07.40.25:993][663]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 68
+[2023.06.08-07.40.25:993][663]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.08-07.40.25:994][663]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.08-07.40.25:994][663]LogAIModule: Creating AISystem for world Maps_Assets
+[2023.06.08-07.40.26:009][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.06.08-07.40.26:017][663]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.08-07.40.26:017][663]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.192ミリ秒かかりました。
+[2023.06.08-07.40.26:017][663]LogFileHelpers: Loading map 'Maps_Assets' took 0.301
+[2023.06.08-07.40.26:131][665]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 62
+[2023.06.08-07.40.26:131][665]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.06.08-07.40.26:395][677]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 56
+[2023.06.08-07.40.26:395][677]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.08-07.40.26:434][679]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 51
+[2023.06.08-07.40.26:434][679]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.06.08-07.40.27:034][709]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 46
+[2023.06.08-07.40.27:034][709]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.08-07.40.27:034][709]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 42
+[2023.06.08-07.40.27:034][709]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.08-07.40.27:257][717]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 38
+[2023.06.08-07.40.27:257][717]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.06.08-07.40.27:657][729]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 34
+[2023.06.08-07.40.27:657][729]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.06.08-07.40.28:635][765]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 31
+[2023.06.08-07.40.28:635][765]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
