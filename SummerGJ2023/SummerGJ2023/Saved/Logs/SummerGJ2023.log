@@ -804,3 +804,129 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.08-02.23.09:560][854]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/UMG_Result_Auto3B0E81D894A0ADFAA321C5E9643F3FC45.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Autosaves/Game/rin/UI/UMG_Result_Auto3.uasset'
 [2023.06.08-02.23.09:561][854]LogFileHelpers: Auto-saving content packages took 0.015
 [2023.06.08-02.24.02:016][819]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/rin/UI/UMG_Result.UMG_Result
+[2023.06.08-02.55.23:726][618]LogRenderer: Reallocating scene render targets to support 1020x504 Format 10 NumSamples 1 (Frame:98388).
+[2023.06.08-02.57.21:575][688]BlueprintLog: New page: UMG_Result をコンパイル
+[2023.06.08-02.57.21:624][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.06.08-03.08.36:278][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.06.08-03.08.36:282][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.023
+[2023.06.08-03.08.36:282][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/rin/UI/UMG_Result] ([2] browsable assets)...
+[2023.06.08-03.08.36:284][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/rin/UI/UMG_Result]
+[2023.06.08-03.08.36:296][258]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/UMG_Result_Auto499FDA045450746A0099AEE8CCCE17F4D.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Autosaves/Game/rin/UI/UMG_Result_Auto4.uasset'
+[2023.06.08-03.08.36:297][258]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.06.08-03.11.38:860][121]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2023.06.08-03.11.38:872][121]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2023.06.08-03.11.45:976][548]LogContentBrowser: Attempting asset rename: 新規フォルダ -> Save
+[2023.06.08-03.11.45:977][548]LogContentBrowser: End creating deferred item 新規フォルダ
+[2023.06.08-03.12.10:863][901]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.08-03.12.24:661][901]LogSlate: Window '親クラスを選択' being destroyed
+[2023.06.08-03.12.24:671][901]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.08-03.12.24:680][901]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.08-03.12.49:700][403]LogContentBrowser: Attempting asset rename: NewBlueprint -> Save_Score
+[2023.06.08-03.12.49:709][403]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.08-03.13.33:444][670]LogContentBrowser: Attempting asset rename: Save_Score -> SaveScore
+[2023.06.08-03.13.33:461][670]LogMetaData: Removing '/Game/FirstPersonBP/Save/SaveScore.SKEL_SaveScore_C' ref from Metadata '/Game/FirstPersonBP/Save/Save_Score.PackageMetaData'
+[2023.06.08-03.13.33:461][670]LogMetaData: Removing '/Game/FirstPersonBP/Save/SaveScore.SaveScore_C' ref from Metadata '/Game/FirstPersonBP/Save/Save_Score.PackageMetaData'
+[2023.06.08-03.13.33:481][670]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/SaveScoreC713C91D467979A23307ECB0236C3FDF.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Content/FirstPersonBP/Save/SaveScore.uasset'
+[2023.06.08-03.13.33:543][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.06.08-03.13.33:567][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.06.08-03.13.33:581][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.08-03.13.33:615][670]AssetCheck: New page: アセット保存：SaveScore
+[2023.06.08-03.13.33:615][670]LogContentValidation: Display: Blueprint /Game/FirstPersonBP/Save/SaveScore.SaveScore を検証しています
+[2023.06.08-03.13.46:403][346]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Save/SaveScore.SaveScore
+[2023.06.08-03.13.49:258][497]LogSlate: Window 'SaveScore' being destroyed
+[2023.06.08-03.13.58:025][ 21]LogSlate: Took 0.000408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.06.08-03.14.46:685][780]BlueprintLog: New page: SaveScore をコンパイル
+[2023.06.08-03.14.46:712][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.06.08-03.15.09:254][ 66]BlueprintLog: New page: SaveScore をコンパイル
+[2023.06.08-03.15.09:278][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.06.08-03.15.11:626][207]BlueprintLog: New page: UMG_Result をコンパイル
+[2023.06.08-03.15.11:659][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.06.08-03.19.03:004][795]LogContentBrowser: Attempting asset rename: SaveScore -> SaveGame
+[2023.06.08-03.19.03:018][795]LogMetaData: Removing '/Game/FirstPersonBP/Save/SaveGame.SaveGame_C' ref from Metadata '/Game/FirstPersonBP/Save/SaveScore.PackageMetaData'
+[2023.06.08-03.19.03:018][795]LogMetaData: Removing '/Game/FirstPersonBP/Save/SaveGame.SKEL_SaveGame_C' ref from Metadata '/Game/FirstPersonBP/Save/SaveScore.PackageMetaData'
+[2023.06.08-03.19.03:032][795]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/SaveGame5B5082734D502891390D6E9F4365CEC7.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Content/FirstPersonBP/Save/SaveGame.uasset'
+[2023.06.08-03.19.03:118][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.06.08-03.19.03:139][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.06.08-03.19.03:152][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.06.08-03.19.03:182][795]AssetCheck: New page: アセット保存：SaveGame
+[2023.06.08-03.19.03:182][795]LogContentValidation: Display: Blueprint /Game/FirstPersonBP/Save/SaveGame.SaveGame を検証しています
+[2023.06.08-03.19.31:116][339]LogContentBrowser: Attempting asset rename: SaveGame -> MySaveGame
+[2023.06.08-03.19.31:126][339]LogMetaData: Removing '/Game/FirstPersonBP/Save/MySaveGame.MySaveGame_C' ref from Metadata '/Game/FirstPersonBP/Save/SaveGame.PackageMetaData'
+[2023.06.08-03.19.31:126][339]LogMetaData: Removing '/Game/FirstPersonBP/Save/MySaveGame.SKEL_MySaveGame_C' ref from Metadata '/Game/FirstPersonBP/Save/SaveGame.PackageMetaData'
+[2023.06.08-03.19.31:141][339]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/MySaveGameA5EC82084DF105C7356A968561F2F646.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Content/FirstPersonBP/Save/MySaveGame.uasset'
+[2023.06.08-03.19.31:190][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.06.08-03.19.31:213][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.06.08-03.19.31:226][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.06.08-03.19.31:256][339]AssetCheck: New page: アセット保存：MySaveGame
+[2023.06.08-03.19.31:256][339]LogContentValidation: Display: Blueprint /Game/FirstPersonBP/Save/MySaveGame.MySaveGame を検証しています
+[2023.06.08-03.23.50:721][389]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.06.08-03.23.50:739][389]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.08-03.24.34:325][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.06.08-03.24.34:328][779]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.024
+[2023.06.08-03.24.34:328][779]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/rin/UI/UMG_Result] ([2] browsable assets)...
+[2023.06.08-03.24.34:328][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/rin/UI/UMG_Result]
+[2023.06.08-03.24.34:346][779]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/UMG_Result_Auto5696E0AFD46061031BEBBE2A9A0C9D164.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Autosaves/Game/rin/UI/UMG_Result_Auto5.uasset'
+[2023.06.08-03.24.34:347][779]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.06.08-03.26.19:240][580]BlueprintLog: New page: UMG_Result をコンパイル
+[2023.06.08-03.26.19:262][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.06.08-03.34.43:010][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.06.08-03.34.43:014][787]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.023
+[2023.06.08-03.34.43:015][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/rin/UI/UMG_Result] ([2] browsable assets)...
+[2023.06.08-03.34.43:015][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/rin/UI/UMG_Result]
+[2023.06.08-03.34.43:032][787]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/UMG_Result_Auto61CF0ED7846CA70DFB47490B6B5D56A98.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Autosaves/Game/rin/UI/UMG_Result_Auto6.uasset'
+[2023.06.08-03.34.43:033][787]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.06.08-03.52.00:838][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.06.08-03.52.00:843][964]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.022
+[2023.06.08-03.52.00:843][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/rin/UI/UMG_Result] ([2] browsable assets)...
+[2023.06.08-03.52.00:843][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/rin/UI/UMG_Result]
+[2023.06.08-03.52.00:861][964]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/UMG_Result_Auto7A027822C4339ABD31EC8459F919EAB6F.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Autosaves/Game/rin/UI/UMG_Result_Auto7.uasset'
+[2023.06.08-03.52.00:863][964]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.06.08-04.03.00:818][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.06.08-04.03.00:821][900]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.022
+[2023.06.08-04.03.00:821][900]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/rin/UI/UMG_Result] ([2] browsable assets)...
+[2023.06.08-04.03.00:821][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/rin/UI/UMG_Result]
+[2023.06.08-04.03.00:839][900]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/UMG_Result_Auto83CA56C6A44D910F87051A8BA8293B354.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Autosaves/Game/rin/UI/UMG_Result_Auto8.uasset'
+[2023.06.08-04.03.00:840][900]LogFileHelpers: Auto-saving content packages took 0.020
+[2023.06.08-04.04.42:412][865]LogSlate: Window 'MySaveGame' being destroyed
+[2023.06.08-04.05.04:542][193]BlueprintLog: New page: MySaveGame をコンパイル
+[2023.06.08-04.05.04:561][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.06.08-04.14.38:028][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.06.08-04.14.38:029][782]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.020
+[2023.06.08-04.14.38:029][782]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/rin/UI/UMG_Result] ([2] browsable assets)...
+[2023.06.08-04.14.38:030][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/rin/UI/UMG_Result]
+[2023.06.08-04.14.38:051][782]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/UMG_Result_Auto9966D280B45259DAA9E0A8CB56A567D95.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Autosaves/Game/rin/UI/UMG_Result_Auto9.uasset'
+[2023.06.08-04.14.38:053][782]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Save/MySaveGame] ([2] browsable assets)...
+[2023.06.08-04.14.38:053][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Save/MySaveGame]
+[2023.06.08-04.14.38:054][782]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/MySaveGame_Auto99BF7279146BC96B55A50BAA05C832E2F.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Autosaves/Game/FirstPersonBP/Save/MySaveGame_Auto9.uasset'
+[2023.06.08-04.14.38:054][782]LogFileHelpers: Auto-saving content packages took 0.025
+[2023.06.08-04.18.31:281][946]BlueprintLog: New page: UMG_Result をコンパイル
+[2023.06.08-04.18.31:309][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.06.08-04.18.33:231][ 61]BlueprintLog: New page: UMG_Result をコンパイル
+[2023.06.08-04.18.33:256][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.06.08-04.18.35:958][223]BlueprintLog: New page: UMG_Result をコンパイル
+[2023.06.08-04.18.35:983][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.06.08-04.19.57:757][910]BlueprintLog: New page: MySaveGame をコンパイル
+[2023.06.08-04.19.57:778][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.06.08-04.20.50:699][ 77]BlueprintLog: New page: MySaveGame をコンパイル
+[2023.06.08-04.20.50:725][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.06.08-04.20.55:661][373]BlueprintLog: New page: UMG_Result をコンパイル
+[2023.06.08-04.20.55:685][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.06.08-04.22.31:453][881]BlueprintLog: New page: UMG_Result をコンパイル
+[2023.06.08-04.22.31:478][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.06.08-04.31.20:266][793]BlueprintLog: New page: UMG_Result をコンパイル
+[2023.06.08-04.31.20:297][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.06.08-04.32.10:573][690]BlueprintLog: New page: UMG_Result をコンパイル
+[2023.06.08-04.32.10:600][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.06.08-04.34.12:176][801]BlueprintLog: New page: UMG_Result をコンパイル
+[2023.06.08-04.34.12:204][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.06.08-04.34.39:117][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.06.08-04.34.39:118][157]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.017
+[2023.06.08-04.34.39:119][157]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/rin/UI/UMG_Result] ([2] browsable assets)...
+[2023.06.08-04.34.39:119][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/rin/UI/UMG_Result]
+[2023.06.08-04.34.39:148][157]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/UMG_Result_Auto02D155BA5431F6F15692AB387BD90800C.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Autosaves/Game/rin/UI/UMG_Result_Auto0.uasset'
+[2023.06.08-04.34.39:149][157]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Save/MySaveGame] ([2] browsable assets)...
+[2023.06.08-04.34.39:149][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Save/MySaveGame]
+[2023.06.08-04.34.39:149][157]LogSavePackage: Moving '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/MySaveGame_Auto0C0DE6D7D4A19E94952E6F8A76F1819A9.tmp' to '../../../../../../Users/KBC12206116/Documents/GitHub/Ateam_2023/SummerGJ2023/SummerGJ2023/Saved/Autosaves/Game/FirstPersonBP/Save/MySaveGame_Auto0.uasset'
+[2023.06.08-04.34.39:151][157]LogFileHelpers: Auto-saving content packages took 0.032
+[2023.06.08-04.35.27:154][619]BlueprintLog: New page: MySaveGame をコンパイル
+[2023.06.08-04.35.27:176][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
